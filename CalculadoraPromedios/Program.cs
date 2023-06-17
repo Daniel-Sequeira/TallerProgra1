@@ -19,6 +19,8 @@ namespace CalculadoraPromedios
             Console.WriteLine("Ingrese la calificación del cuatrimestre 3");
             int cuatri3 = Convert.ToInt32(Console.ReadLine());
 
+            double notaFinal = (cuatri1 + cuatri2 + cuatri3) / 3;
+
             
 
 
