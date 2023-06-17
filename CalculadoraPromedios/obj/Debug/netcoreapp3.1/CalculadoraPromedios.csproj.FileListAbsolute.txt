@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\bin\Debug\netcoreapp3.1\CalculadoraPromedios.exe
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\bin\Debug\netcoreapp3.1\CalculadoraPromedios.deps.json
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\bin\Debug\netcoreapp3.1\CalculadoraPromedios.runtimeconfig.json
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\bin\Debug\netcoreapp3.1\CalculadoraPromedios.runtimeconfig.dev.json
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\bin\Debug\netcoreapp3.1\CalculadoraPromedios.dll
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\bin\Debug\netcoreapp3.1\CalculadoraPromedios.pdb
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\bin\Debug\netcoreapp3.1\Accessibility.xml
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\obj\Debug\netcoreapp3.1\CalculadoraPromedios.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\obj\Debug\netcoreapp3.1\CalculadoraPromedios.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\obj\Debug\netcoreapp3.1\CalculadoraPromedios.AssemblyInfo.cs
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\obj\Debug\netcoreapp3.1\CalculadoraPromedios.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\obj\Debug\netcoreapp3.1\CalculadoraPromedios.csproj.CopyComplete
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\obj\Debug\netcoreapp3.1\CalculadoraPromedios.dll
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\obj\Debug\netcoreapp3.1\CalculadoraPromedios.pdb
+C:\Users\danie\source\repos\CalProm\CalculadoraPromedios\obj\Debug\netcoreapp3.1\CalculadoraPromedios.genruntimeconfig.cache
