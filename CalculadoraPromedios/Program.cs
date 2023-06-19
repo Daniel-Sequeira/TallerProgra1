@@ -14,10 +14,11 @@ namespace CalculadoraPromedios
 
             int decide = Convert.ToInt32(Console.ReadLine());
 
-            int i;
-            for (i=0; decide == 1; i+=1)
+            
+            if (decide == 1)
             {
-                evaluador(); 
+                evaluador();
+          
             }
 
             Console.WriteLine("Hasta Luego!");
