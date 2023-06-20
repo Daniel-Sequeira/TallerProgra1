@@ -9,19 +9,34 @@ namespace CalculadoraPromedios
             //Una calculadora de promedios
             evaluador();
 
-            Console.WriteLine("¿Quieres evaluar otro alumno"+" "+
-           "Escriba (1) para Iniciar/ (0) para salir");
+            bool ciclo = true;
 
-            int decide = Convert.ToInt32(Console.ReadLine());
 
-            
-            if (decide == 1)
+            for (; ciclo;)
             {
-                evaluador();
-          
-            }
+                Console.WriteLine("¿Quieres evaluar otro alumno" + " " +
+           "Escriba (1) para Iniciar/ (0) para salir");
+                int decide = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Hasta Luego!");
+                for (int i = 0; i < 1; i++)
+                {
+                    if (decide == 1)
+                    {
+                        evaluador();
+                    }
+                    else if (decide == 0)
+                    {
+                        Console.WriteLine("Hasta Luego");
+                        ciclo = false;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Numero invalido, accion no disponible, ingrese un numero valido");
+                    }
+
+                }
+
+            }
         }
 
         static void evaluador()
@@ -42,13 +57,12 @@ namespace CalculadoraPromedios
 
             if (notaFinal >= 70)
             {
-                Console.WriteLine($"({nombre} está en condición APROBADO su calificaión es {notaFinal}");
+                Console.WriteLine($"{nombre} está en condición APROBADO su calificaión es {notaFinal}");
             }
             else
             {
                 Console.WriteLine($"{nombre} a REPROBADO su calificación es {notaFinal}");
             }
-
         }
     }
 
