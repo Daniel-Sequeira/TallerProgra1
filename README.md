@@ -1,9 +1,9 @@
 # TallerProgra1
-Caluladora de Promedios.
+## Caluladora de Promedios.
 Primer proyecto universitarion en lenguaje C# con uso de  con git/github/ VS Community
-Abstracción:
-Caluladora de promedios solicita al usuario nombre del alumno, notas obtenidas en los 3 cuatrimestres, calcula promedio final y define si está aprobado o no, si el usuario deses evaluar a otro alumno el proceso se repite de lo contrario cierra.
-Desarrollo:
+## Abstracción:
+Caluladora de promedios solicita al usuario nombre del alumno, notas obtenidas en los 3 cuatrimestres, calcula promedio final y define si está aprobado o no, si el usuario desea evaluar a otro alumno el proceso se repite de lo contrario cierra.
+## Desarrollo:
 Se establece la Clase evaluador (): solicita el nombre lo almacene en una variable {nombre}, luego las calificaciones de los 3 cuartrimestres, de igual forma almacenadas en las variables {cuatri1} {cuatri2} {cuatri3}.
 Seguidamente calcule el promedio o nota final y lo almacene en una variable de tipo double llamada {notaFinal}, la cual mediante un condicional {if} se definirá si el alumno está en condicíón de aprobado/ reprobado.
 La clase main(): Desde su inicio llama a evaluador(), luego se esteblece una variable bool llamada {ciclo = True} 
