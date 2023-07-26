@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\source\\repos\\CalProm\\CalculadoraPromedios\\CalculadoraPromedios.csproj": {}
+    "C:\\Users\\danie\\Source\\Repos\\TallerProgra1\\CalculadoraPromedios\\CalculadoraPromedios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\source\\repos\\CalProm\\CalculadoraPromedios\\CalculadoraPromedios.csproj": {
+    "C:\\Users\\danie\\Source\\Repos\\TallerProgra1\\CalculadoraPromedios\\CalculadoraPromedios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\source\\repos\\CalProm\\CalculadoraPromedios\\CalculadoraPromedios.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Source\\Repos\\TallerProgra1\\CalculadoraPromedios\\CalculadoraPromedios.csproj",
         "projectName": "CalculadoraPromedios",
-        "projectPath": "C:\\Users\\danie\\source\\repos\\CalProm\\CalculadoraPromedios\\CalculadoraPromedios.csproj",
+        "projectPath": "C:\\Users\\danie\\Source\\Repos\\TallerProgra1\\CalculadoraPromedios\\CalculadoraPromedios.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\source\\repos\\CalProm\\CalculadoraPromedios\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Source\\Repos\\TallerProgra1\\CalculadoraPromedios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
